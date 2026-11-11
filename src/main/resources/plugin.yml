@@ -1,0 +1,5 @@
+name: HungerlessLunge
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Prevents Lunge spear use from consuming hunger.
